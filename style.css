@@ -1,43 +1,31 @@
 *{
     font-family: 'Poppins', sans-serif;
 }
-
-/* font-family: 'Open Sans', sans-serif;
-font-family: 'Poppins', sans-serif; */
-
 /* global styling */
 .pri-bg-col {
     background: color #124265 !important;  
 }
-
 .pri-text-col{
     color: #2487ce !important;
 }
-
 .pri-btn-col{
     border-color: #2487ce !important;
 }
-
 .sec-bg-col {
     background-color: #2487ce !important;
 }
-
 .sec-text-col{
     color: #124265 !important;
 }
-
 .sec-btn-col{
     border-color: #124265 !important;
 }
-
 .card-zoom {
     transition: all ease-in-out 0.5s;
 }
-
 .card-zoom:hover {
     transform: scale(1.09);
 }
-
 .card-zoom:hover h5 {
     color: #2487ce !important;
     cursor: pointer;
